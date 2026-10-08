@@ -1,0 +1,15 @@
+{
+  "name": "agegen",
+  "owner": {
+    "name": "AgeGen",
+    "email": "info@agegen.ai"
+  },
+  "description": "AgeGen's plugins for Claude: Prime Age, a daily habit self-assessment.",
+  "plugins": [
+    {
+      "name": "agegen-prime-age",
+      "source": "./",
+      "description": "Prime Age by AgeGen: the 12-habit self-assessment, daily check-in and sourced protocols, inside Claude."
+    }
+  ]
+}

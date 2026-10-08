@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "prime-age": {
+      "type": "http",
+      "url": "https://agegen.ai/mcp"
+    }
+  }
+}

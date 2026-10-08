@@ -1,0 +1,14 @@
+{
+  "name": "agegen-prime-age",
+  "version": "0.1.0",
+  "description": "Prime Age by AgeGen: a 12-habit self-assessment expressed as an age, the daily check-in, your logged numbers and the sourced protocol for each habit, inside Claude. Educational wellness content, not medical advice.",
+  "author": {
+    "name": "AgeGen",
+    "email": "info@agegen.ai",
+    "url": "https://agegen.ai"
+  },
+  "homepage": "https://agegen.ai/prime-age/",
+  "repository": "https://github.com/AgeGenAI/primeage",
+  "license": "MIT",
+  "keywords": ["health", "habits", "longevity", "wellness", "sleep", "check-in", "prime-age"]
+}
