@@ -10,6 +10,9 @@
   },
   "homepage": "https://agegen.ai/prime-age/",
   "privacyPolicyUrl": "https://agegen.ai/privacy/",
+  "termsOfServiceUrl": "https://agegen.ai/terms/",
+  "documentationUrl": "https://agegen.ai/prime-age-methodology/",
+  "supportUrl": "https://agegen.ai/about/",
   "repository": "https://github.com/AgeGenAI/primeage",
   "license": "MIT",
   "keywords": [
