@@ -1,5 +1,6 @@
 {
   "name": "agegen-prime-age",
+  "displayName": "Prime Age by AgeGen",
   "version": "0.1.0",
   "description": "Prime Age by AgeGen: a 12-habit self-assessment expressed as an age, the daily check-in, your logged numbers and the sourced protocol for each habit, inside Claude. Educational wellness content, not medical advice.",
   "author": {
