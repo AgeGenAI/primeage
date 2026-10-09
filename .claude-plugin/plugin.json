@@ -8,7 +8,16 @@
     "url": "https://agegen.ai"
   },
   "homepage": "https://agegen.ai/prime-age/",
+  "privacyPolicyUrl": "https://agegen.ai/privacy/",
   "repository": "https://github.com/AgeGenAI/primeage",
   "license": "MIT",
-  "keywords": ["health", "habits", "longevity", "wellness", "sleep", "check-in", "prime-age"]
+  "keywords": [
+    "health",
+    "habits",
+    "longevity",
+    "wellness",
+    "sleep",
+    "check-in",
+    "prime-age"
+  ]
 }
